@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61" height="61" viewBox="0 0 61 61">
+  <defs>
+    <filter id="Path_3576" x="-9" y="0" width="79" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_3576)">
+        <path id="Path_3576-2" data-name="Path 3576" d="M30.5,0A30.5,30.5,0,1,1,0,30.5,30.5,30.5,0,0,1,30.5,0Z" transform="translate(177 2493)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(-177 -2493)" clip-path="url(#clip-path)">
+    <g id="united-states" transform="translate(177 2493)">
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="30.5" cy="30.5" r="30.5" fill="#f0f0f0"/>
+      <g id="Group_180" data-name="Group 180" transform="translate(1.051 6.63)">
+        <path id="Path_3571" data-name="Path 3571" d="M52.609,48.609H84.435a30.533,30.533,0,0,0-1.051-7.957H52.609Z" transform="translate(-24.486 -24.739)" fill="#d80027"/>
+        <path id="Path_3572" data-name="Path 3572" d="M52.609,19.913H79.958a30.661,30.661,0,0,0-7.038-7.957H52.609Z" transform="translate(-24.486 -11.956)" fill="#d80027"/>
+        <path id="Path_3573" data-name="Path 3573" d="M39.749,104.674a30.369,30.369,0,0,0,18.986-6.63H20.763A30.369,30.369,0,0,0,39.749,104.674Z" transform="translate(-10.3 -50.304)" fill="#d80027"/>
+        <path id="Path_3574" data-name="Path 3574" d="M5.321,77.3H57.367a30.318,30.318,0,0,0,3.426-7.957H1.895A30.318,30.318,0,0,0,5.321,77.3Z" transform="translate(-1.895 -37.522)" fill="#d80027"/>
+      </g>
+      <path id="Path_3575" data-name="Path 3575" d="M14.128,4.763h2.779L14.322,6.641,15.31,9.68,12.725,7.8,10.139,9.68l.853-2.626a30.668,30.668,0,0,0-5.916,6.593h.891l-1.646,1.2q-.385.642-.738,1.3l.786,2.419L2.9,17.5q-.547,1.158-1,2.368l.866,2.665h3.2L3.382,24.411,4.37,27.45,1.784,25.572.236,26.7A30.794,30.794,0,0,0,0,30.5H30.5V0A30.356,30.356,0,0,0,14.128,4.763ZM15.31,27.45l-2.585-1.878L10.139,27.45l.988-3.039L8.542,22.533h3.2l.987-3.039.987,3.039h3.2l-2.585,1.878Zm-.988-11.924.988,3.039-2.585-1.878-2.585,1.878.988-3.039L8.542,13.648h3.2l.987-3.039.987,3.039h3.2ZM26.25,27.45l-2.585-1.878L21.08,27.45l.988-3.039-2.585-1.878h3.2l.987-3.039.987,3.039h3.2l-2.585,1.878Zm-.988-11.924.988,3.039-2.585-1.878L21.08,18.565l.988-3.039-2.585-1.878h3.2l.987-3.039.987,3.039h3.2Zm0-8.885L26.25,9.68,23.665,7.8,21.08,9.68l.988-3.039L19.482,4.763h3.2l.987-3.039.987,3.039h3.2Z" transform="translate(0)" fill="#0052b4"/>
+    </g>
+  </g>
+</svg>

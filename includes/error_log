@@ -1,0 +1,11 @@
+[08-Oct-2021 11:00:04 UTC] PHP Notice:  Undefined index: name in /home/meriyyue/development.meridiancreative.solutions/evs-new/includes/register_with_ielts.php on line 20
+[08-Oct-2021 11:00:04 UTC] PHP Notice:  Undefined index: email in /home/meriyyue/development.meridiancreative.solutions/evs-new/includes/register_with_ielts.php on line 21
+[08-Oct-2021 11:00:04 UTC] PHP Notice:  Undefined index: contact_number in /home/meriyyue/development.meridiancreative.solutions/evs-new/includes/register_with_ielts.php on line 22
+[08-Oct-2021 11:00:04 UTC] PHP Notice:  Undefined index: class_preference in /home/meriyyue/development.meridiancreative.solutions/evs-new/includes/register_with_ielts.php on line 23
+[08-Oct-2021 16:01:38 UTC] PHP Notice:  Undefined index: cv_file in /home/meriyyue/development.meridiancreative.solutions/evs-new/includes/migration_visa_inquiry.php on line 26
+[08-Oct-2021 16:01:38 UTC] PHP Notice:  Undefined index: cv_file in /home/meriyyue/development.meridiancreative.solutions/evs-new/includes/migration_visa_inquiry.php on line 27
+[08-Oct-2021 16:01:38 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file:  in /home/meriyyue/development.meridiancreative.solutions/evs-new/vendor/phpmailer/phpmailer/src/PHPMailer.php:2968
+Stack trace:
+#0 /home/meriyyue/development.meridiancreative.solutions/evs-new/includes/migration_visa_inquiry.php(95): PHPMailer\PHPMailer\PHPMailer->addAttachment(NULL, NULL)
+#1 {main}
+  thrown in /home/meriyyue/development.meridiancreative.solutions/evs-new/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2968

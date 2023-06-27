@@ -1,0 +1,26 @@
+<svg width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <filter id="Ellipse_11" x="-60" y="-22" width="230" height="230" filterUnits="userSpaceOnUse">
+      <feOffset dy="38" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_11)">
+        <circle id="Ellipse_11-2" data-name="Ellipse 11" cx="55" cy="55" r="55" transform="translate(564 2587)" fill="#fff"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-564 -2587)" clip-path="url(#clip-path)">
+    <g id="canada" transform="translate(564 2587)">
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="55" cy="55" r="55" fill="#f0f0f0"/>
+      <g id="Group_179" data-name="Group 179" transform="translate(0 5.457)">
+        <path id="Path_3568" data-name="Path 3568" d="M120.043,55.695A55,55,0,0,0,88.956,6.152v99.085A55,55,0,0,0,120.043,55.695Z" transform="translate(-10.043 -6.152)" fill="#d80027"/>
+        <path id="Path_3569" data-name="Path 3569" d="M0,55.695a55,55,0,0,0,31.087,49.543V6.152A55,55,0,0,0,0,55.695Z" transform="translate(0 -6.152)" fill="#d80027"/>
+        <path id="Path_3570" data-name="Path 3570" d="M69.131,67.043,78.7,62.261,73.913,59.87V55.087L64.348,59.87,69.131,50.3H64.348L59.565,43.13,54.783,50.3H50l4.783,9.565-9.565-4.783V59.87l-4.782,2.391L50,67.043l-2.391,4.783h9.565V79h4.782V71.826h9.565Z" transform="translate(-4.565 -10.327)" fill="#d80027"/>
+      </g>
+    </g>
+  </g>
+</svg>

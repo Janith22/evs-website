@@ -1,0 +1,47 @@
+@media (min-width: 1200px) and (max-width: 1680px) {
+
+    .home-map .map-outer .map-inner .map-mark img {
+        width: 50px;
+    }
+    .home-map .map-outer .map-inner .map-mark:hover .c-link {
+        transform: scale(0.85) translateX(-135px) translateY(30px);
+    }
+    // .home-map .map-outer .map-inner .map-mark.uk:hover .c-link {
+    //     transform: scale(0.55) translateY(-45px) translateX(-20%);
+    // }
+
+    .home-why.home-global.migration-global:after {
+        height: 42.2%;
+    }
+
+    .home-why.home-global.students-top:after {
+        height: 43.25%;
+    }
+
+    .home-why.home-global.students-top.open-days:after {
+        height: 45.5%;
+    }
+
+    .about-differance .about-differance-outer{
+        padding-bottom: 0
+    }
+
+    .nav-outer .nav-bottom #navigation .navbar-nav .dropdown-menu .dropdown-item{
+        padding: 12px;
+    padding-left: 0;
+    }
+
+    .home-why.home-global.migration-global .wt-in .typt-mg {
+        padding-right: 4vw;
+    }
+    
+}  
+
+
+@media (min-width: 1500px) and (max-width: 1680px) {
+
+}
+
+@media (min-width: 1200px) and (max-width: 1499px) {
+
+}

@@ -1,0 +1,20 @@
+@media only screen and (max-width: 360px) {
+  
+    .slide-inner .title {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    #home-banner-wrapper .slide-inner {
+        height: clamp(20rem, 45.052vw, 54.0625rem);
+    }
+
+    .home-top-boxes .top-box .side-img {
+        max-height: 25vw;
+    }
+
+    .home-why.home-global.students-top .articles .article-inner .article-box .img .main-img {
+        height: 160px;
+    }
+
+}
+

@@ -1,0 +1,37 @@
+
+/*create scss structure*/
+@import "partials/_variables.scss";
+@import "partials/_mixins.scss";
+@import "partials/_normalize.scss";
+
+/*basic styles*/
+@import "partials/_base.scss";
+
+/*main styles*/
+@import "partials/_layout.scss";
+
+/*responsive styles*/
+@import "partials/_mobile.scss";
+@import "partials/_tab-portrait.scss";
+@import "partials/_tab-landscape.scss";
+@import "partials/_medium-pc.scss";   
+@import "partials/_small-mobile.scss";   
+
+
+
+
+
+  
+
+
+  
+
+   
+
+
+
+
+
+
+
+
