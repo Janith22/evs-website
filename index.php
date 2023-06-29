@@ -169,13 +169,13 @@
                                 <p>Express Visa Application processes are open for Canada Migration.</p>
                             </div>
                         </div>
-                        <!-- <div class="map-mark usa">
+                        <div class="map-mark usa">
                             <img src="images/home/usa.png" alt="">
                             <div class="c-link">
                                 <h6 class="title">America</h6>
                                 <p>Express Visa Application processes are open for Canada Migration.</p>
                             </div>
-                        </div> -->
+                        </div>
                         <div class="map-mark switzerland">
                             <img src="images/home/switzerland.png" alt="">
                             <div class="c-link">
@@ -198,20 +198,20 @@
                                 <p>Sri Lankan Student Visa holders are allowed to travel to the UK amidst the ban.</p>
                             </div>
                         </div>
-                        <!-- <div class="map-mark china">
+                        <div class="map-mark china">
                             <img src="images/home/china.svg" alt="">
                             <div class="c-link">
                                 <h6 class="title">China</h6>
                                 <p>Express Visa Application processes are open for Canada Migration.</p>
                             </div>
-                        </div> -->
-                        <!-- <div class="map-mark japan">
+                        </div>
+                        <div class="map-mark japan">
                             <img src="images/home/japan.svg" alt="">
                             <div class="c-link">
                                 <h6 class="title">Japan</h6>
                                 <p>Express Visa Application processes are open for Canada Migration.</p>
                             </div>
-                        </div> -->
+                        </div>
                         <div class="map-mark india">
                             <img src="images/home/india.svg" alt="">
                             <div class="c-link">
@@ -250,24 +250,17 @@
                                 <p>Sri Lankan Students are allowed to start lectures online upon Visa grant</p>
                             </div>
                         </div>
-                        <div class="map-mark usa">
+                        <!-- <div class="map-mark usa">
                             <img src="images/home/countries/united states.svg" alt="">
                             <div class="c-link">
                                 <h6 class="title">USA</h6>
                                 <p>Sri Lankan Students are allowed to start lectures online upon Visa grant</p>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="map-mark malaysia">
                             <img src="images/home/countries/malaysia.svg" alt="">
                             <div class="c-link">
                                 <h6 class="title">Malaysia</h6>
-                                <p>Sri Lankan Students are allowed to start lectures online upon Visa grant</p>
-                            </div>
-                        </div>
-                        <div class="map-mark australia">
-                            <img src="images/home/countries/australia.svg" alt="">
-                            <div class="c-link">
-                                <h6 class="title">Australia</h6>
                                 <p>Sri Lankan Students are allowed to start lectures online upon Visa grant</p>
                             </div>
                         </div>
@@ -306,20 +299,20 @@
                                 <p>Sri Lankan Students are allowed to start lectures online upon Visa grant</p>
                             </div>
                         </div>
-                        <div class="map-mark japan">
+                        <!-- <div class="map-mark japan">
                             <img src="images/home/countries/japan.svg" alt="">
                             <div class="c-link">
                                 <h6 class="title">Japan</h6>
                                 <p>Sri Lankan Students are allowed to start lectures online upon Visa grant</p>
                             </div>
-                        </div>
-                        <div class="map-mark china">
+                        </div> -->
+                        <!-- <div class="map-mark china">
                             <img src="images/home/countries/china.svg" alt="">
                             <div class="c-link">
                                 <h6 class="title">China</h6>
                                 <p>Sri Lankan Students are allowed to start lectures online upon Visa grant</p>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="map-mark finland">
                             <img src="images/home/countries/finland.svg" alt="">
                             <div class="c-link">

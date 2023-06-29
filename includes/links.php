@@ -16,6 +16,7 @@
 <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 <link href="css/master.css" rel="stylesheet" type="text/css"/>
 <link href="sweetalert/sweet-alert.min.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" href="./css/map-update.css">
 
 <link type="image/png" href="images/favicon.png" rel="icon" />
 
